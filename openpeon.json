@@ -1,0 +1,83 @@
+{
+  "cesp_version": "1.0",
+  "name": "otto",
+  "display_name": "电棍otto",
+  "version": "1.0.0",
+  "author": {
+    "name": "Bielelele",
+    "github": "BiatBang"
+  },
+  "license": "CC-BY-NC-4.0",
+  "language": "zh",
+  "categories": {
+    "session.start": {
+      "sounds": [
+        { "file": "sounds/session_start_1.mp3", "label": "大家好啊，我是电棍" },
+        { "file": "sounds/session_start_2.mp3", "label": "欧内的手，好汉" },
+        { "file": "sounds/session_start_3.mp3", "label": "我喜欢你，你喜欢我" }
+      ]
+    },
+    "session.end": {
+      "sounds": [
+        { "file": "sounds/session_end_1.mp3", "label": "给你愉悦送走" },
+        { "file": "sounds/session_end_2.mp3", "label": "哈利路大旋风！" },
+        { "file": "sounds/session_end_3.mp3", "label": "对不起我优越了可能是我膨胀了" }
+      ]
+    },
+    "task.acknowledge": {
+      "sounds": [
+        { "file": "sounds/task_acknowledge_1.mp3", "label": "干你们就完了来来来来来" },
+        { "file": "sounds/task_acknowledge_2.mp3", "label": "冲刺！冲刺！冲！冲！冲！" },
+        { "file": "sounds/task_acknowledge_3.mp3", "label": "卧槽，炫狗!" },
+        { "file": "sounds/task_acknowledge_4.mp3", "label": "我是说的道理,今天来点大家想看的东西啊" }
+      ]
+    },
+    "task.complete": {
+      "sounds": [
+        { "file": "sounds/task_complete_1.mp3", "label": "今天来点大家想看的东西啊" },
+        { "file": "sounds/task_complete_2.mp3", "label": "你看你跌操作这波" },
+        { "file": "sounds/task_complete_3.mp3", "label": "击败！" },
+        { "file": "sounds/task_complete_4.mp3", "label": "电棍温柔笑声" },
+        { "file": "sounds/task_complete_5.mp3", "label": "啊，在颤抖我的身体" }
+      ]
+    },
+    "task.error": {
+      "sounds": [
+        { "file": "sounds/task_error_1.mp3", "label": "酒桶这波是什么操作啊" },
+        { "file": "sounds/task_error_2.mp3", "label": "啊哥我错啦" },
+        { "file": "sounds/task_error_3.mp3", "label": "哈比下" },
+        { "file": "sounds/task_error_4.mp3", "label": "铸币吧这怎么这么菜啊" }
+      ]
+    },
+    "input.required": {
+      "sounds": [
+        { "file": "sounds/input_required_1.mp3", "label": "队友呢队友呢救一下啊!" },
+        { "file": "sounds/input_required_2.mp3", "label": "凯南开大啊，开大啊！" },
+        { "file": "sounds/input_required_3.mp3", "label": "卡在这里了" },
+        { "file": "sounds/input_required_4.mp3", "label": "哎你怎么似了，兄弟你动啊！" },
+        { "file": "sounds/input_required_5.mp3", "label": "来我给你房管你给我说话来" },
+        { "file": "sounds/input_required_6.mp3", "label": "跌，救我" }
+      ]
+    },
+    "resource.limit": {
+      "sounds": [
+        { "file": "sounds/resource_limit_1.mp3", "label": "那我缺的这个营养这一块的谁给我补啊" },
+        { "file": "sounds/resource_limit_2.mp3", "label": "penta kill没啦！" }
+      ]
+    },
+    "user.spam": {
+      "sounds": [
+        { "file": "sounds/user_spam_1.mp3", "label": "憋追辣！奥利安费！" },
+        { "file": "sounds/user_spam_2.mp3", "label": "没受过这么大委屈，从小到大" }
+      ]
+    },
+    "task.progress": {
+      "sounds": [
+        { "file": "sounds/task_progress_1.mp3", "label": "脑门印着急了" },
+        { "file": "sounds/task_progress_2.mp3", "label": "喵呜!" },
+        { "file": "sounds/task_progress_3.mp3", "label": "这也太刺激了" },
+        { "file": "sounds/task_progress_4.mp3", "label": "他最后的时间我不知道有多少，但他只要能开心做什么我都能接受" }
+      ]
+    }
+  }
+}
